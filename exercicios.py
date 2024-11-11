@@ -95,3 +95,6 @@
 #     numero2 = int(input("Digite o segundo numero: "))
 #     opcao = int(input("Digite '1' para soma, digite '2' para subtrair, digite '3' para multiplicacao, digite '4' para a divisão, '5' para exponenciação, '6' para raiz quadrada de cada numero: ")) 
 #     print(calculadora(numero1, numero2, opcao))
+#   else:
+#     print("Invalido, tente novamente!")
+  
